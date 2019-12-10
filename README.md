@@ -31,7 +31,6 @@ ios, android install
 sudo gem install cocoapods
 "cd ios" 
 pod install
-
 ```
 
 **rn-apple-healthkit**
@@ -41,7 +40,6 @@ pod install
 
 ```
 react-native link rn-apple-healthkit
-
 ```
 
 **android**
@@ -86,14 +84,12 @@ settings.json에 들어가서 해당 코드로 추가 설정이 필요합니다.
 ```
 npm install
 react-native link
-
 ```
 
 **ios**
 ```
 "cd ios"
 pod install
-
 ```
 
 ### Running the tests
