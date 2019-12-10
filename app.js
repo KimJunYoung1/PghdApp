@@ -11,10 +11,12 @@ if (__DEV__) {
 
 const store = createStore(reducer);
 
-export default App = () => {
+const App = () => {
   return (
     <Provider store={store}>
       <Appcontainer />
     </Provider>
   );
 };
+
+export default App;
