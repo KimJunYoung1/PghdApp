@@ -124,3 +124,6 @@ react-native run-android
 - [React Native HealthKit](https://github.com/KimJunYoung1/PghdApp/blob/develop/HEALTHKIT.md) - 해당 파일에 작성된 url 확인
 - [Redux](https://redux.js.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+# PghdApp TIL
+[김준영 블로그](https://program-developer.tistory.com/category/Project/HopeQuery)
